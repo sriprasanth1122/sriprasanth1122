@@ -4,7 +4,7 @@
     
 - 🌱 I’m currently learning Full Stack Web Developement
 - 📫 How to reach me sriprasanth1122@gmail.com
-- 👀 Don't work hard. Work Intelligent.
+- ⚡ Don't work hard. Work Intelligent.
 
 <h2 align='center'><i>Connect with me</i></h2>
 
