@@ -8,7 +8,9 @@
 <h2 align='center'><i>Connect with me</i></h2>
 
 <p  align='center'>
-<a href="https://twitter.com/sriprasanth1122"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" width="50"></a>
-<a href="https://www.instagram.com/alpha_._pilot/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" width="50"></a> &nbsp
 <a href="https://www.linkedin.com/in/sri-prasanth/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="50"></a>
+&nbsp
+<a href="https://www.instagram.com/alpha_._pilot/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" width="50"></a> &nbsp
+<a href="https://twitter.com/sriprasanth1122"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" width="50"></a>
+
 </p>
