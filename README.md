@@ -2,7 +2,6 @@
 
 <h2><i>Hi👋 I'm Sri Prasanth</i></h2>
     
-- 👋 Hi, I’m Sri Prasanth
 - 🌱 I’m currently learning Full Stack Web Developement
 - 📫 How to reach me sriprasanth1122@gmail.com
 - 👀 Don't work hard. Work Intelligent.
